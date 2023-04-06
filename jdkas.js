@@ -1,0 +1,4 @@
+sk_test_51L53TeSBwzby5YcBooVe7xqrw9DrV7SWyW5WKKYGSFO4fNSoDyd167DZrmIW6lZE6pHUDrYe9zfqGnCHTQUKhnPc00eL5w5pxY
+
+
+AdobeId: be9c900b04de4b5186b499a56ce5675e  adobeSecret: p8e-gKvL8qVRwaSVOw9n02wE5lpgn08g1QUk
